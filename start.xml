@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Start>
+ <name>Sea of Mayonnaise</name>
+ <player>
+  <ship name="El Shipo" acquired="Your first space-worthy ship!">Llama</ship>
+  <credits>30000</credits>
+  <system>
+   <name>Sys</name>
+   <x>-1250</x>
+   <y>-350</y>
+  </system>
+  <chapter>0</chapter>
+ </player>
+ <date scu="100" stp="1000" stu="1000" />
+ <spob_lua_default>spob/lua/default.lua</spob_lua_default>
+</Start>

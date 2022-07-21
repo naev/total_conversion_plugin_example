@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faction name="Testers">
+ <ai>independent</ai>
+ <static />
+ <invisible />
+ <known />
+ <player>3</player>
+ <colour>blue</colour>
+ <spawn>testers</spawn>
+ <standing>static</standing>
+ <allies>
+ </allies>
+ <enemies>
+ </enemies>
+</faction>

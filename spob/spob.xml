@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spob name="Spob">
+ <pos x="0.0" y="0.0"/>
+ <GFX>
+  <space>M03.webp</space>
+  <exterior>aquatic3.webp</exterior>
+ </GFX>
+ <presence>
+  <faction>Testers</faction>
+  <base>10</base>
+  <bonus>5</bonus>
+  <range>3</range>
+ </presence>
+ <general>
+  <class>O</class>
+  <population>11</population>
+  <hide>1.000000</hide>
+  <services>
+   <land/>
+   <refuel/>
+   <bar/>
+   <missions/>
+   <commodity/>
+  </services>
+  <commodities/>
+  <description>Just a Spob.</description>
+  <bar>Just a bar.</bar>
+ </general>
+</spob>
