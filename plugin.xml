@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mod name="Sea of Mayonnaise">
+<plugin name="Sea of Mayonnaise">
  <author>Naev DevTeam</author>
  <version>0.1</version>
  <compatibility>^0\.10\..*</compatibility>
  <priority>1</priority>
  <total_conversion/>
-</mod>
+</plugin>
