@@ -14,6 +14,4 @@
  </player>
  <date scu="100" stp="1000" stu="1000" />
  <spob_lua_default>spob/lua/default.lua</spob_lua_default>
- <dtype_default>energy</dtype_default>
- <local_map_default>Local System Map</local_map_default>
 </Start>
