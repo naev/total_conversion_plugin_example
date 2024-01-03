@@ -2,7 +2,8 @@
 <plugin name="Sea of Mayonnaise">
  <author>Naev DevTeam</author>
  <version>0.1</version>
- <compatibility>^0\.10\..*</compatibility>
+ <compatibility>^0\.11\..*</compatibility>
  <priority>1</priority>
  <total_conversion/>
+ <source>https://github.com/naev/total_conversion_plugin_example.git</source>
 </plugin>
